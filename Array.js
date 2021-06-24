@@ -1,16 +1,16 @@
   
                                  /*Array
-var fruta = [{nome:"maça", cor:"vermelha"},{nome:"maça", cor:"vermelha"}]   // lista e dicionario
-var fruta = {nome:"maça", cor:"vermelha"}                           //Dicionário
+var fruta = [{nome:"maça", cor:"vermelha"},{nome:"maça", cor:"vermelha"}]   
+var fruta = {nome:"maça", cor:"vermelha"}                           
 console.log(fruta);
 alert(fruta[1].nome);
                                   
-var lista = ["maça","pera","laranja"]    //lista
-lista.push("acerola")                       //adiciona
-lista.pop();                                //tira p ultimo/console.log(lista[0]);  //length=tamanho.  reverse=tras elementos ao contrário tostring vira string
+var lista = ["maça","pera","laranja"]    
+lista.push("acerola")                       
+lista.pop();                                
 console.log(lista.toString()[0]);
-console.log(lista.join(" - "));               //join junta coloca qualquer coisa
-alert(lista[2])                           //imprimi só a laranja  
+console.log(lista.join(" - "));               
+alert(lista[2])                             
 */
 /*
 var nome = "Gedalias tarcisio";
@@ -21,9 +21,9 @@ alert( nome +  "  tem  "+ idade +" anos ");
 alert(idade + idade2);
 console.log(nome);
 console.log(idade);     
-console.log(frase.replace("japão", "França"));   //replace muda a variável por outra japão por frança
+console.log(frase.replace("japão", "França"));   
 alert(frase.replace("japão","nigéria"));
-console.log(frase.toUpperCase());                //maiúsculo tolowercase=minúsculo
+console.log(frase.toUpperCase());               
 */
 
 
